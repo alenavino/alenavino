@@ -1,6 +1,6 @@
+![3](https://github.com/user-attachments/assets/64f5be6b-d5a9-4d32-9435-7d5d599463c0)
+
 ## Hi there 👋
-![1](https://github.com/user-attachments/assets/522681fc-1755-42a7-bf24-ebfec8da9614)
-![2](https://github.com/user-attachments/assets/98c0d20d-d84d-4a41-989d-2d3587f4d1c9)
 
 <!--
 **alenavino/alenavino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
