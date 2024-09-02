@@ -1,6 +1,6 @@
 ![Hi, I am Alena](https://github.com/user-attachments/assets/64f5be6b-d5a9-4d32-9435-7d5d599463c0)
 ----------------
-Python Developer
+Python Backend Developer
 ----------------
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alenavino1996)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alenka.vino/)
